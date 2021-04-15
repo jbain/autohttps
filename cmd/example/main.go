@@ -1,7 +1,7 @@
 package main
 
 import (
-	"autohttps"
+	"github.com/jbain/autohttps"
 	"net/http"
 )
 func main() {
